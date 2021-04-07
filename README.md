@@ -3,7 +3,7 @@
 <!--
 **fahadshamshad/fahadshamshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-->
 
 - 📍  **Hello, World!** This is Fahad Shamshad from Pakistan :pakistan:.
 - 🔭 I am currently working as a Researcher @ Computer Vision Department, [MBZUAI](https://mbzuai.ac.ae/)
