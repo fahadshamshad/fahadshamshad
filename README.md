@@ -4,8 +4,6 @@
 **fahadshamshad/fahadshamshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
-- 📍 This is Fahad Shamshad from Pakistan :pakistan:.
 - 🔭 I am currently working as a Researcher @ Computer Vision Department, [MBZUAI](https://mbzuai.ac.ae/)
 - 🕘 I had held technical roles as Senior Machine Learning Engineer at OMNO.AI and as a Research Associate at Information Technology University, Lahore.
 - 🥇 I did my Masters in Electrical Engineering from NUST Islamabad, where I was advised by Dr. Abdul Ghafoor. I did my bachelors from Institute of Space Technology, Islamabad.
